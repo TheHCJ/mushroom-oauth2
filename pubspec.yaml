@@ -1,9 +1,9 @@
-name: mastodon_oauth2
-description: Provides the optimized and easiest way to integrate OAuth 2.0 with Mastodon API in Flutter.
-version: 1.0.0
-repository: https://github.com/mastodon-dart/mastodon-oauth2
-issue_tracker: "https://github.com/mastodon-dart/mastodon-oauth2/issues"
-homepage: "https://github.com/mastodon-dart"
+name: mushroom_oauth2
+description: (Modified for Mushroom) This library provides the optimized and easiest way to authenticate with Mastodon OAuth 2.0 in your Flutter app 🎯
+version: 1.0.1
+repository: https://github.com/TheHCJ/mushroom-oauth2
+issue_tracker: "https://github.com/TheHCJ/mushroom-oauth2/issues"
+homepage: "https://github.com/TheHCJ/mushroomformastodon"
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
@@ -11,8 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.5
-  flutter_web_auth_2: ^2.0.2
+  http: ^1.3.0
+  flutter_web_auth_2: ^4.1.0
   freezed_annotation: ^2.2.0
   json_annotation: ^4.7.0
 
