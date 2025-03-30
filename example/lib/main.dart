@@ -3,7 +3,7 @@
 // modification, are permitted provided the conditions.
 
 import 'package:flutter/material.dart';
-import 'package:mastodon_oauth2/mastodon_oauth2.dart';
+import 'package:mushroom_oauth2/mushroom_oauth2.dart';
 
 void main() {
   runApp(const MaterialApp(home: Example()));

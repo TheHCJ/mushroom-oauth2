@@ -135,10 +135,10 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.1"
-  mastodon_oauth2:
+  mushroom_oauth2:
     dependency: "direct main"
     description:
-      name: mastodon_oauth2
+      name: mushroom_oauth2
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.0.1"

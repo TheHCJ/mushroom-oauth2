@@ -20,7 +20,7 @@ class BrowserWebAuth implements BaseWebAuth {
     // ignore: unsafe_html
     final popupLogin = html.window.open(
         uri.toString(),
-        'mastodon_oauth2::authenticateWindow',
+        'mushroom_oauth2::authenticateWindow',
         'menubar=no, status=no, scrollbars=no, '
             'menubar=no, width=1000, height=500');
 

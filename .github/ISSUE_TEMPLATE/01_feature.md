@@ -1,6 +1,6 @@
 ---
 name: Feature request.
-about: Suggest a new feature for mastodon_oauth2.
+about: Suggest a new feature for mushroom_oauth2.
 title: ""
 labels: ""
 assignees: "myConsciousness"

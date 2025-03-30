@@ -3,7 +3,7 @@
 // modification, are permitted provided the conditions.
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:mastodon_oauth2/src/scope.dart';
+import 'package:mushroom_oauth2/src/scope.dart';
 
 void main() {
   test('.name', () {

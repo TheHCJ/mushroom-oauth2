@@ -1,6 +1,6 @@
 ---
 name: Improvement suggestion.
-about: Something in mastodon_oauth2 can be improved.
+about: Something in mushroom_oauth2 can be improved.
 title: ""
 labels: "enhancement"
 assignees: "myConsciousness"

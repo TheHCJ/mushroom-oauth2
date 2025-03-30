@@ -33,7 +33,7 @@ Output of: flutter doctor -v
 
 <!--
 Create a list of more environment information, like:
-* mastodon_oauth2_ version: 0.4.0
+* mushroom_oauth2_ version: 0.4.0
 -->
 
 # 6. Log information

@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mastodon-dart/mastodon-oauth2">
-    <img alt="mastodon_oauth2" width="500px" src="https://user-images.githubusercontent.com/13072231/202434467-6efce2ed-83e3-4975-b21c-6388fe51c820.png">
+    <img alt="mushroom_oauth2" width="500px" src="https://user-images.githubusercontent.com/13072231/202434467-6efce2ed-83e3-4975-b21c-6388fe51c820.png">
   </a>
 </p>
 
@@ -13,8 +13,8 @@
 [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/myConsciousness)
 [![GitHub Sponsor](https://img.shields.io/static/v1?label=Maintainer&message=myConsciousness&logo=GitHub&color=00acee)](https://github.com/myConsciousness)
 
-[![pub package](https://img.shields.io/pub/v/mastodon_oauth2.svg?logo=dart&logoColor=00b9fc)](https://pub.dartlang.org/packages/mastodon_oauth2)
-[![Dart SDK Version](https://badgen.net/pub/sdk-version/mastodon_oauth2)](https://pub.dev/packages/mastodon_oauth2/)
+[![pub package](https://img.shields.io/pub/v/mushroom_oauth2.svg?logo=dart&logoColor=00b9fc)](https://pub.dartlang.org/packages/mushroom_oauth2)
+[![Dart SDK Version](https://badgen.net/pub/sdk-version/mushroom_oauth2)](https://pub.dev/packages/mushroom_oauth2/)
 [![Test](https://github.com/mastodon-dart/mastodon-oauth2/actions/workflows/test.yml/badge.svg)](https://github.com/mastodon-dart/mastodon-oauth2/actions/workflows/test.yml)
 [![Analyzer](https://github.com/mastodon-dart/mastodon-oauth2/actions/workflows/analyzer.yml/badge.svg)](https://github.com/mastodon-dart/mastodon-oauth2/actions/workflows/analyzer.yml)
 [![Issues](https://img.shields.io/github/issues/mastodon-dart/mastodon-oauth2?logo=github&logoColor=white)](https://github.com/mastodon-dart/mastodon-oauth2/issues)
@@ -57,13 +57,13 @@ This library provides the easiest way to authenticate with [OAuth 2.0](https://d
 ### 1.1.1. Install Library
 
 ```bash
- flutter pub add mastodon_oauth2
+ flutter pub add mushroom_oauth2
 ```
 
 ### 1.1.2. Import
 
 ```dart
-import 'package:mastodon_oauth2/mastodon_oauth2.dart';
+import 'package:mushroom_oauth2/mushroom_oauth2.dart';
 ```
 
 ### 1.1.3. Setup
@@ -176,7 +176,7 @@ After pressing the `Authorize` button, a redirect will be performed and you will
 ```dart
 import 'package:flutter/material.dart';
 
-import 'package:mastodon_oauth2/mastodon_oauth2.dart';
+import 'package:mushroom_oauth2/mushroom_oauth2.dart';
 
 void main() {
   runApp(const MaterialApp(home: Example()));
@@ -282,7 +282,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 1.4. Support ❤️
 
-The simplest way to show us your support is by **giving the project a star** at [GitHub](https://github.com/mastodon-dart/mastodon-oauth2) and [Pub.dev](https://pub.dev/packages/mastodon_oauth2).
+The simplest way to show us your support is by **giving the project a star** at [GitHub](https://github.com/mastodon-dart/mastodon-oauth2) and [Pub.dev](https://pub.dev/packages/mushroom_oauth2).
 
 You can also support this project by **becoming a sponsor** on GitHub:
 
@@ -296,7 +296,7 @@ You can also support this project by **becoming a sponsor** on GitHub:
 
 ## 1.5. License 🔑
 
-All resources of `mastodon_oauth2` is provided under the `BSD-3` license.
+All resources of `mushroom_oauth2` is provided under the `BSD-3` license.
 
 ```license
 Copyright 2022 Kato Shinya. All rights reserved.
@@ -309,10 +309,10 @@ modification, are permitted provided the conditions.
 
 ## 1.6. More Information 🧐
 
-`mastodon_oauth2` was designed and implemented by **_Kato Shinya ([@myConsciousness](https://github.com/myConsciousness))_**.
+`mushroom_oauth2` was designed and implemented by **_Kato Shinya ([@myConsciousness](https://github.com/myConsciousness))_**.
 
 - [Creator Profile](https://github.com/myConsciousness)
 - [License](https://github.com/mastodon-dart/mastodon-oauth2/blob/main/LICENSE)
-- [API Document](https://pub.dev/documentation/mastodon_oauth2/latest/mastodon_oauth2/mastodon_oauth2-library.html)
+- [API Document](https://pub.dev/documentation/mushroom_oauth2/latest/mushroom_oauth2/mushroom_oauth2-library.html)
 - [Release Note](https://github.com/mastodon-dart/mastodon-oauth2/releases)
 - [Bug Report](https://github.com/mastodon-dart/mastodon-oauth2/issues)
